@@ -1,0 +1,705 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+#home {
+    width: 196px;
+    height: 84px;
+    background: url(bean\ 1.png) 0 0;
+}
+.container{
+    width: 99%;
+    height: 1500px;
+	position: static;
+    border: 5px solid #827B6E;
+    float: left;
+}
+.header{
+    width: 100%;
+    background-color:white;
+    float: left;
+    font-family: 'Signika', sans-serif;
+    position: static;
+    top: 0;
+    left: 0;
+    width: 100%;
+} 
+.header  h1{
+    color: white;
+    font-family: 'Signika', sans-serif;
+    text-align: center;
+}
+.H_contentl{
+    width: 50%;
+	height: 25%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+} 
+.H_contentl p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.H_content2{
+    float: left;
+    width: 50%;
+	height: 25%;
+    background-color:#b1aa9c;
+    font-family: 'Signika', sans-serif;
+}   
+.H_content2 p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+} 
+
+.H_content3{
+    float: left;
+    width: 50%;
+	height: 25%;
+    background-color:#b1aa9c;
+    font-family: 'Signika', sans-serif;
+}
+.H_content3 p{
+    float: right;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.H_content4{
+    float: left;
+    width: 50%;
+	height: 25%;
+    background-color:#b1aa9c;
+    font-family: 'Signika', sans-serif;
+}
+.H_content4 p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.H_content5{
+    float: left;
+    width: 50%;
+	height: 21%;
+    background-color:#b1aa9c;
+    font-family: 'Signika', sans-serif;
+}
+.H_content5 p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.H_content6{
+    float: left;
+    width: 50%;
+	height: 21%;
+    background-color:#b1aa9c;
+    font-family: 'Signika', sans-serif;
+}
+.H_content6 p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.H_contentEnd{
+   float: left;
+    width: 100%;
+	height: 13.5%;
+    background-color:#AB8F73;
+    font-family: 'Signika', sans-serif;
+    bottom: 0px;
+}
+.H_contentEnd p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+
+.footer{
+    width: 50%;
+	height: 30%;
+    background-color:#AB8F73;
+    float: left;
+}
+.H_banner{
+    width: 100%;
+    height: 5.5%;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.banner p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.H_banner2{
+    width: 100%;
+    height: 8%;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.banner2 p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#table2 th{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #AB8F73;
+    margin-top: 100px;
+}   
+#table2{
+    margin-top: 100px;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #b1aa9c;
+}
+
+table, th, td {
+    font-style: italic;
+    font-size: 60px;
+    font:italic
+    border: 1px solid blue;
+}
+/*courese page specific*/
+.Co_banner{
+    width: 100%;
+    height: 7.5%;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.banner p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.Co_container{
+    width: 99%;
+    height: 1000px;
+	position: static;
+    border: 5px solid #827B6E;
+    float: left;
+} 
+.Co_contentl{
+    width: 75%;
+	height: 28%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.Co_contentl p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.Co_content2{
+    width: 25%;
+	height: 28%;
+    background-color:#b1aa9c;
+    float: left;
+}
+.Co_content3{
+    width: 100%;
+    height: 30%;
+    background-color: #b1aa9c;
+    float: left;
+}
+.Co_contentEnd{
+    float: left;
+    width: 100%;
+    height: 19.5%;
+    background-color:#AB8F73;
+    font-family: 'Signika', sans-serif;
+    bottom: 0px;
+}
+.Co_contentEnd p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+/*Ca Specific*/
+.Ca_container{
+    width: 99%;
+    height: 1439px;
+	position: static;
+    border: 5px solid #827B6E;
+    float: left;
+}
+.Ca_banner{
+    width: 100%;
+    height: 65px;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.Ca_contentl{
+    width: 75%;
+	height: 480px;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+    
+}
+.Ca_contentl p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 18px;
+    padding-left: 15px;
+}
+.Ca_content2{
+    width: 25%;
+	height: 480px;
+    background-color:#b1aa9c;
+    float: left;
+}
+.Ca_content2 p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 15px;
+}
+.Ca_content3{
+    width: 75%;
+	height: 550px;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+    
+}
+.Ca_content3 p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 18px;
+    padding-left: 15px;
+}
+.Ca_content4{
+    width: 25%;
+	height: 550px;
+    background-color:#b1aa9c;
+    float: left;
+}
+.Ca_content4 p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 15px;
+}
+#Ca_apply{
+    width: 25%;
+    background-color: rgb(204, 198, 187);
+    margin-top: 15px;
+}
+#Ca_apply2{
+    width: 25%;
+    background-color: rgb(204, 198, 187);
+    margin-top: 15px;
+}
+/*AF specific*/
+.AF_Border1{
+    width: 25%;
+    height: 732px;
+    float: left;
+    background-color:#b1aa9c;
+}
+.AF_Border2{
+    width: 25%;
+    height: 732px;
+    float: left;
+    background-color:#b1aa9c;
+}
+.AF_content1{
+    width: 50%;
+	height: 732px;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.AF_content1 p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.AF_banner{
+    width: 100%;
+    height: 70px;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.banner p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.AF_container{
+    width: 99%;
+    height: 1152px;
+	position: static;
+    border: 5px solid #827B6E;
+    float: left;
+} 
+.AF_contentEnd{
+    float: left;
+    width: 100%;
+    height: 200px;
+    background-color:#AB8F73;
+    font-family: 'Signika', sans-serif;
+    bottom: 0px;
+}
+.AF_contentEnd p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+form{
+    float: left;
+    height: 680px;
+    width: 98.4%;
+    margin: 0 auto;
+    padding-left: 15px;
+    background-color:#AB8F73;
+}
+form label{
+    display: block;
+    margin-top: 15px;
+}
+form input{
+    display: block;
+    width: 55%;
+    height: 25px;
+    margin-top: 15px;
+}
+form textarea{
+    width: 98%;
+    height: 200px;
+}
+#submit{
+    width: 25%;
+    background-color: rgb(204, 198, 187);
+    margin-top: 15px;
+}
+form select{
+    display: block;
+    width: 56%;
+    height: 25px;
+    margin-top: 15px;
+}
+
+/*MTT Specific*/
+.MTT_banner{
+    width: 100%;
+    height: 10.5%;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.banner p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.MTT_container{
+    width: 99%;
+    height: 1000px;
+	position: static;
+    border: 5px solid #827B6E;
+    float: left;
+} 
+.MTT_contentl{
+    width: 100%;
+	height: 27.6%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.MTT_contentl p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.MTT_content2{
+    width: 25%;
+	height: 27.4%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.MTT_content2 p{
+    float: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.MTT_content3{
+    width: 25%;
+	height: 27.4%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.MTT_content3 p{
+    float: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.MTT_content4{
+    width: 25%;
+	height: 27.4%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.MTT_content4 p{
+    float: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.MTT_content5{
+    width: 25%;
+	height: 27.4%;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.MTT_content5 p{
+    float: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.MTT_contentEnd{
+    float: left;
+    width: 100%;
+    height: 19.5%;
+    background-color:#AB8F73;
+    font-family: 'Signika', sans-serif;
+    bottom: 0px;
+}
+.MTT_contentEnd p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+/*Su specific*/
+.Su_banner{
+    width: 100%;
+    height: 75px;
+    background-color:#AB8F73;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.banner p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+.Su_container{
+    width: 99%;
+    height: 1015px;
+	position: static;
+    border: 5px solid #827B6E;
+    float: left;
+} 
+.Su_content2{
+    width: 100%;
+	height: 600px;
+    background-color:#b1aa9c;
+    float: left;
+    font-family: 'Signika', sans-serif
+}
+.Su_content2 p{
+    float: center;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+.Su_contentEnd{
+    float: left;
+    width: 100%;
+    height: 190px;
+    background-color:#AB8F73;
+    font-family: 'Signika', sans-serif;
+    bottom: 0px;
+}
+.Su_contentEnd p{
+    float: left;
+    font-family: sfont-family: 'Signika', sans-serif;
+    font-size: 30px;
+}
+/*images*/
+#pic_1 {
+    width: 450px;
+    height: 325px;
+    float: center;
+    position: relative;
+    right: -30px;
+}
+#pic_2 {
+    width: 375px;
+    height: 250px;
+    float: center;
+    position: relative;
+    right: -30px;
+}
+#HTML-code {
+    width: 475px;
+    height: 325px;
+    float: right;
+    position: relative;
+    right: 30px;
+}
+#logo{
+    width: 225px;
+    height: 80px;
+    position: relative;
+    right: -5px;
+    top: 25px;
+}
+#logo_FaceB{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: -5px;
+    top: -25px;
+}
+#logo_Insta{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: -5px;
+    top: -25px;
+}
+#logo_Twitter{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: -5px;
+    top: -25px;
+}
+#logo_Linkedin{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    right: -5px;
+    top: -25px;
+}
+#career_pic1{
+    width: 80%;
+    height: 95%;
+    position: relative;
+    right: -35px;
+    top: 45px;
+}
+#logo_CA{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: -5px;
+    top: 15px;
+}
+#logo_W3S{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    right: -5px;
+    top: 15px;    
+}
+#logo_BPC{
+    width: 560px;
+    height: 200px;
+    position: relative;
+    right: -5px;
+    top: 15px;
+}
+#logo_LU{
+    width: 560px;
+    height: 200px;
+    position: relative;
+    right: -5px;
+    top: 15px;    
+}
+#DT{
+    width: 195px;
+	height: 175px;
+    position: relative;
+    top: 15px;
+    right: -45%;
+
+}
+#CT{
+    width: 189px;
+	height: 175px;
+    position: relative;
+    top: 15px;
+    right: -30%;
+}
+#JR1{
+    width: 189px;
+	height: 175px;
+    position: relative;
+    top: 15px;
+    right: -30%;
+}
+#JR2{
+    width: 189px;
+	height: 175px;
+    position: relative;
+    top: 10px;
+    right: -30%;
+}
+#JR3{
+    width: 189px;
+	height: 175px;
+    position: relative;
+    top: 15px;
+    right: -30%;
+}
+#Ca_jpg{
+    width: 489px;
+	height: 375px;
+    position: relative;
+    top: 35px;
+    right: 90px;
+}
+#Ca_jpg2{
+    width: 489px;
+	height: 375px;
+    position: relative;
+    top: 35px;
+    right: 90px;
+}
+#Tick{
+    width: 489px;
+	height: 380px;
+    position: relative;
+    top: 5px;
+    right: -650px;
+}
+}
+/*#ToolBar {
+    position: static;
+    width: 100%;
+    height: 25px;
+    top: 0;
+    left: 0;
+}
